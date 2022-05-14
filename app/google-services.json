@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "66443119736",
+    "project_id": "sandra-1aa85",
+    "storage_bucket": "sandra-1aa85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66443119736:android:0e90d0298491d3aaff718d",
+        "android_client_info": {
+          "package_name": "com.example.sandra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66443119736-os762fb1qpf07bdsgjocqprtvac0js12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtPxoWdigtW1ge4eDkiS5OMriC5sFf2jE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66443119736-os762fb1qpf07bdsgjocqprtvac0js12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
